@@ -1,6 +1,7 @@
 themes=(
 	casper
 	lyra
+	journal
 )
 
 mkdir -p content/themes/

@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "casper": "github:TryGhost/Casper#main",
+    "journal": "github:TryGhost/Journal#main",
     "ghost": "4.47.4",
     "ghost-storage-cloudinary": "2.2.1",
     "lyra": "github:TryGhost/lyra#main",
