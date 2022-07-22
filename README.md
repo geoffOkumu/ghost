@@ -22,3 +22,4 @@ This example deploys self-hosted version of .... Internally it uses a MySQL data
 - The above limitation also affects the way themes work with Ghost, we use the `bin/themes.sh` script to copy over the themes every time you deploy. That way, the theme is always present.
   - To add a theme, first add the package as a dependency to the `package.json` file and then add it to the list of themes in the `bin/themes.sh` file.
   - Do NOT add a theme directly using the Ghost UI, it will look like it worked but will break whenever you deploy your app again.
+m
