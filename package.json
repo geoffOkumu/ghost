@@ -15,6 +15,7 @@
     "ghost-storage-cloudinary": "2.2.1",
     "lyra": "github:TryGhost/lyra#main",
     "gost-newsletter": "github:geoffOkumu/Journal#main",
+    "gost-newsletter-v2": "github:geoffOkumu/Journal#main",
     "mysql2": "2.3.3"
   },
   "scripts": {

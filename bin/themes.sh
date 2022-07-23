@@ -3,6 +3,7 @@ themes=(
 	lyra
 	journal
 	gost-newsletter
+	gost-newsletter-v2
 )
 
 mkdir -p content/themes/
