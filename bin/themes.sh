@@ -2,6 +2,7 @@ themes=(
 	casper
 	lyra
 	journal
+	gost-newsletter
 )
 
 mkdir -p content/themes/
