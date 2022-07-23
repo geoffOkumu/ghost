@@ -1,4 +1,4 @@
-# Ghost example
+# www.geoffokumu.com
 
 This example deploys self-hosted version of .... Internally it uses a MySQL database to store the data.
 
