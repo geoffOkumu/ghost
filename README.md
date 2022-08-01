@@ -2,10 +2,6 @@
 
 This example deploys self-hosted version of .... Internally it uses a MySQL database to store the data.
 
-## Features
-
-- Ghost
-- MySQL
 
 ## 💁‍♀️ How to use
 
