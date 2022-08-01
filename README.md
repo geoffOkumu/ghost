@@ -6,7 +6,7 @@ This example deploys self-hosted version of .... Internally it uses a MySQL data
 ## 💁‍♀️ How to use
 
 - Click the Railway button 👆
-- Add the environment variables
+- Add the environm
   - If you do not add the `CLOUDINARY_URL` environment variable, your images/files will not be persisted between deploys.
   - Add the `MAILGUN_SMTP_LOGIN` and `MAILGUN_SMTP_PASSWORD` variables if you want to invite users to your admin panel or send emails to your subscribers when you publish a new post.
 
